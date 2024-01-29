@@ -1,0 +1,7 @@
+time {
+    display: block;
+}
+
+.post { /*espaçamento entre o parte de baixo e as demais postagens*/
+    margin-bottom: 24px;
+}
